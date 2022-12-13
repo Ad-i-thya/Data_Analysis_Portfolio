@@ -30,4 +30,10 @@ This section contains the list of projects completed with the help of data analy
 
 **TOOLS USED:** Python, Pandas, Matplotlib
 
-**RESULTS/INSIGHTS:** 
+**RESULTS/INSIGHTS:**<br> 1. Animated/Comedy/Adventure films had the highest avg. IMDB Score <br>
+                      2. 'Documentary' had the highest as well as lowest IMDB Score<br>
+                      3. Almost 45% of films belonged to 'Documentary' genre<br>
+                      4. Highest number of films were released in English followed by Hindi
+                      5. Year 2020 had the highest number of releases<br>
+                      6. Thriller movies were found to have the highest avg. runtime<br>
+                    
