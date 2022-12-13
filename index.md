@@ -8,10 +8,10 @@
 [Netflix Originals Data Analysis](Netflix_Originals.ipynb)
 
 ---
-[Fitness Tracker Analysis](Mi Band Fitness Tracker.ipynb)
+[Fitness Tracker Analysis](Mi_Band_Fitness_Tracker.ipynb)
 
 ---
-[Superstore Sales Analysis](Superstore Sales.ipynb)
+[Superstore Sales Analysis](Superstore_Sales.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
