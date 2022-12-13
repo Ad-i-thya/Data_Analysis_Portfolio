@@ -4,7 +4,7 @@
 
 ### Data Analysis with Python
 
-[Netflix Originals Data Analysis](/http://localhost:8889/notebooks/Desktop/Excel%2C%20SQL%2C%20Python%2C%20Power%20BI/Python/Projects/Netflix%20Originals/Netflix_Originals.ipynb)
+[Netflix Originals Data Analysis](Netflix_Originals.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
