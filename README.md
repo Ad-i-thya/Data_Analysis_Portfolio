@@ -24,8 +24,10 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
 This section contains the list of projects completed with the help of data analysis tools available in Python. A brief description about the project and the tools used are also given.
 
 ### Netflix Originals Analysis
-**CODE:** 
-**DESCRIPTION:**
-**SKILLS**
-**TOOLS USED**
-**RESULTS/INSIGHTS**
+**CODE:** ['Netflix Originals Analysis'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Netflix_Originals.ipynb)
+
+**DESCRIPTION:** Taken from Kaggle, the dataset contains all the original films, documentaries & special programs that were released as of June 2021. The dataset contains 584 entries &  columns. The project includes data loading, data preprocessing, exploratory data analysis, IMDB Score analysis, Genre wise analysis, year wise analysis, separate analysis for the year 2020 as it was the year with most releases.
+
+**TOOLS USED:** Python, Pandas, Matplotlib
+
+**RESULTS/INSIGHTS:** 
