@@ -5,18 +5,21 @@
 ### Data Analysis with Python
 
 
-[Netflix Originals Data Analysis](Netflix_Originals.ipynb)
+[Netflix Originals Analysis](Netflix_Originals.ipynb)
 
 ---
 [Fitness Tracker Analysis](Mi_Band_Fitness_Tracker.ipynb)
 
 ---
 [Superstore Sales Analysis](Superstore_Sales.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Stock Market Analysis (S&P)](Stock_Market_Analysis_(S&P).ipynb)
 
-### Category Name 2
+---
+[Youtube Data Analysis](You_Tube_Analysis.ipynb)
+
+### Data Visualization
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
