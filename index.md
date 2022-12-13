@@ -4,7 +4,10 @@
 
 ### Data Analysis with Python
 
-[Netflix Originals Data Analysis](/Data Analysis with Python/Netflix_Originals.ipynb)
+[Netflix_Originals Analysis](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Netflix Originals Data Analysis](Data Analysis with Python/Netflix_Originals.ipynb)
 
 ---
 [Fitness Tracker Analsis](Mi Band Fitness Tracker.ipynb)
