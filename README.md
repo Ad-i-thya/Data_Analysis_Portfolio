@@ -10,3 +10,4 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
 
 ## Table of contents
 - [About](#about)
+- [Portfolio Projects](#portfolio-projects)
