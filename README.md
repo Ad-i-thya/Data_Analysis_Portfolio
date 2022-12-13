@@ -15,4 +15,4 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
 	+ [Fitness Tracker Analysis](#fitness-tracker-analysis)
 	+ [Superstore Sales Analysis](#superstore-sales-analysis)
 	+ [Stock Market Analysis (S&P)](#stock-market-analysis)
-	+ [You Tube Case Study](#youtube case study)
+	+ [You Tube Case Study](#youtube-case-study)
