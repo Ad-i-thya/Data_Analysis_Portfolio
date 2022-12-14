@@ -52,13 +52,13 @@ This section contains the list of projects completed with the help of data analy
  ### Superstore Sales Analysis
 **CODE:** ['Superstore Sales Analysis'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Analysis%20with%20Python/Superstore_Sales.ipynb)
 
-**DESCRIPTION:** For this project, retail dataset of a global superstore for 4 years was used. Taken from Kaggle, the dataset contains the sales data for US.s 584 entries &  columns. The project includes data loading, data preprocessing, exploratory data analysis, IMDB Score analysis, Genre wise analysis, year wise analysis, separate analysis for the year 2020 as it was the year with most releases.
+**DESCRIPTION:** For this project, retail dataset of a global superstore for 4 years was used. Taken from Kaggle, the dataset contains the sales data for US.The data was initially cleaned to remove duplicates & drop unwanted columns. Post this, yearwise analysis, region wise analysis, Product wise analysis & Category wise analysis were conducted. The same dataset was used to create a report in Power BI.
 
-**TOOLS USED:** Python, Pandas, Matplotlib
+**TOOLS USED:** Python, Pandas, Matplotlib, Seaborn
 
-**RESULTS/INSIGHTS:**<br> 1. Animated/Comedy/Adventure films had the highest avg. IMDB Score <br>
-                      2. 'Documentary' had the highest as well as lowest IMDB Score<br>
-                      3. Almost 45% of films belonged to 'Documentary' genre<br>
-                      4. Highest number of films were released in English followed by Hindi<br>
-                      5. Year 2020 had the highest number of releases<br>
-                      6. Thriller movies were found to have the highest avg. runtime<br>                   
+**RESULTS/INSIGHTS:**<br> 1. Max. sales came from West region (31.4%) & yearwise max. sales was in 2018 <br>
+                      2. In all 4 years, California gave highest sales.<br>
+                      3. In 2018 (year with highest sales), the highest sales was in November (seasonal demand - Holiday season)<br>
+                      4. East region saw a gradual increase in sales from 2015 to 2018. All other regions experienced a drop in 2016<br>
+                      5. Except in 2016, Tech product had highest sales in all other years<br>
+                      6. Within tech products, Phones were the most sold items<br>                   
