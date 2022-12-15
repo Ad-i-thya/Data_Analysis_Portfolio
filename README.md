@@ -61,4 +61,19 @@ This section contains the list of projects completed with the help of data analy
                       3. In 2018 (year with highest sales), the highest sales was in November (seasonal demand - Holiday season) <br>
                       4. East region saw a gradual increase in sales from 2015 to 2018. All other regions experienced a drop in 2016<br>
                       5. Except in 2016, Tech product had highest sales in all other years <br>
-                      6. Within tech products, Phones were the most sold items <br>                   
+                      6. Within tech products, Phones were the most sold items <br>
+
+
+### Stock Market Analysis
+**CODE:** ['Stock Market Analysis(S&P)'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Analysis%20with%20Python/Stock_Market_Analysis_(S%26P).ipynb)
+
+**DESCRIPTION:** In this project, stock data for Apple, Amazon, Google & Microsoft were analysed. Stock data of 4 companies were concatenated into one single dataframe. Line plots were plotted to analyse the closing price, volume etc. Daily returns were calculated for google stock & a line was plotted. Post this a heatmap was plotted to see if the stock prices (closing price) as well as the daily returns of different companies are related or not. Market cap of the companies were also plotted.
+
+**TOOLS USED:** Python, Pandas, Matplotlib, Seaborn, Plotly
+
+**RESULTS/INSIGHTS:**<br> 1. Apple stock prices dropped post mid-2015 & regained by mid-2016  <br>
+                      2.  Monthly mean closing price has grown gradually for Google<br>
+                      3.  Except for Apple & Google, all other stock prices are highly correlated to each other<br>
+                      4.  The daily returns of each stock are not correlated to each other<br>
+                      5.  Market cap has been highest for Apple followed by Amazon<br>
+         
