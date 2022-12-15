@@ -57,8 +57,8 @@ This section contains the list of projects completed with the help of data analy
 **TOOLS USED:** Python, Pandas, Matplotlib, Seaborn
 
 **RESULTS/INSIGHTS:**<br> 1. Max. sales came from West region (31.4%) & yearwise max. sales was in 2018 <br>
-                      2. In all 4 years, California gave highest sales.<br>
-                      3. In 2018 (year with highest sales), the highest sales was in November (seasonal demand - Holiday season)<br>
+                      2. In all 4 years, California gave highest sales <br>
+                      3. In 2018 (year with highest sales), the highest sales was in November (seasonal demand - Holiday season) <br>
                       4. East region saw a gradual increase in sales from 2015 to 2018. All other regions experienced a drop in 2016<br>
-                      5. Except in 2016, Tech product had highest sales in all other years<br>
-                      6. Within tech products, Phones were the most sold items<br>                   
+                      5. Except in 2016, Tech product had highest sales in all other years <br>
+                      6. Within tech products, Phones were the most sold items <br>                   
