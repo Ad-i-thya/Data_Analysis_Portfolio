@@ -18,7 +18,11 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [You Tube Case Study](#youtube-case-study)
   
 - [Data Visualization with Power BI](#data-visualization-with-power-bi)
-
+  + [Indian Trade Data](#indian-trade-data)
+  + [Fitness Tracker Analysis](#fitness-tracker-analysis)
+  + [Superstore Sales Analysis](#superstore-sales-analysis)
+  + [Stock Market Analysis (S&P)](#stock-market-analysis)
+  + [You Tube Case Study](#youtube-case-study)
 
 ## Portfolio Projects with Python
 This section contains the list of projects completed with the help of data analysis tools available in Python. A brief description about the project and the tools used are also given.
@@ -91,3 +95,22 @@ This section contains the list of projects completed with the help of data analy
                       5.  Videos uploaded at 4AM had the ost no: of views followed by videos that were uploaded during 1PM-5PM<br>
                       6.  Videos with more number of punctuations in their titles got less views<br>
                       7.  Most of the videos entered the trending list within 1-2 days of uploading<br>
+ 
+## Data Visualization with Power BI
+This section contains few Power BI reports that I had created using the processed datasets from my python projects as well as using raw datasets.
+
+### Netflix Originals Data
+**POWER BI FILE:** ['Netflix Originals Data'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Visualization%20with%20Power%20BI/Netflix_Originals.pbix)
+
+**DESCRIPTION:** Netflix dataset used for python data analysis was used here as well. 
+
+### Indian Trade Data
+**POWER BI FILE:** ['Indian Trade Data'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Visualization%20with%20Power%20BI/Indian_Trade%20_Data.pbix)
+
+**DESCRIPTION:** Import & Export Data from 2010 to 2021 was used. The dataset was first cleaned & preprcoessed using python & was then loaded into Power BI. Various plots were used to understand the trade behaviour of India with different countries & how it has changed over the years.
+
+### Superstore Sales Data
+**POWER BI:** ['Superstore Sales Data'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Visualization%20with%20Power%20BI/Superstore_Sales.pbix)
+
+**DESCRIPTION:** Superstore dataset was loaded to Power BI and visualized. The first page consists of mutiple tables to see how sales has performed year wise, region wise, category wise to name a few. A bubble map was plotted where the size of the bubble varies with the sales amount. VArious other charts like bar plot, pie charts are also included.
+
