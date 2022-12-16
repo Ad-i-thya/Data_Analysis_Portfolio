@@ -113,7 +113,7 @@ In this section, I have added few Power BI reports that I had created using the 
 **DESCRIPTION:** Import & Export Data from 2010 to 2021 was used. The dataset was first cleaned & preprcoessed using python & was then loaded into Power BI. Various plots were used to understand the trade behaviour of India with different countries & how it has changed over the years.
 
 ### Superstore Sales Data
-**POWER BI:** ['Superstore Sales Data'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Visualization%20with%20Power%20BI/Superstore_Sales.pbix)
+**POWER BI FILE:** ['Superstore Sales Data'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Visualization%20with%20Power%20BI/Superstore_Sales.pbix)
 
 **DESCRIPTION:** Superstore dataset was loaded to Power BI and visualized. The first page consists of mutiple tables to see how sales has performed year wise, region wise, category wise to name a few. A bubble map was plotted where the size of the bubble varies with the sales amount. VArious other charts like bar plot, pie charts are also included.
 
