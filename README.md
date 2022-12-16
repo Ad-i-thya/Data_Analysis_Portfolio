@@ -23,9 +23,9 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Superstore Sales Data](#superstore-sales-data)
 
 - [Web Scraping](#Web Scraping)
-  +[Books List](#books-list)
-  +[IMDB Top Movies (India)](#imdb-top-movies)
-  +[Python Jobs (Times Jobs)](#python-jobs)
+  + [Books List](#books-list)
+  + [IMDB Top Movies](#imdb-top-movies)
+  + [Python Jobs (Times Jobs)](#python-jobs)
 
 ## Portfolio Projects with Python
 This section contains the list of projects completed with the help of data analysis tools available in Python. A brief description about the project and the tools used are also given.
@@ -121,16 +121,20 @@ In this section, I have added few Power BI reports that I had created using the 
 This section contains few web scraping tasks that I had completed during my free time. I have added the jupyter code along with the final excel workbook into which the data was scraped
 
 ### Books List from toscrape website
-**CODE:** ['Books List'](
-**EXCEL FILE:** ['Book List'](
+**CODE:** ['Books List'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/Books%20List%20from%20toscrape.ipynb)
+
+**EXCEL FILE:** ['Book List'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/Books%20list.xlsx)
+
 **DESCRIPTION:** The website is used for the sole purpose of learning how to scrape. The website was scraped to get the book title, the price, rating & stock status.
 
 ### IMDB Top 200 movies
-**CODE:** ['IMDB Top 200 Movies'](
-**EXCEL FILE:** ['IMDB Top 200 Movies'](
+**CODE:** ['IMDB Top 200 Movies'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/IMDB%20Scraping.ipynb)
+
+**EXCEL FILE:** ['IMDB Top 200 Movies'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/IMDB%20Ratings.xlsx)
+
 **DESCRIPTION:** The official webiste of IMDB was scraped to get the Movie Rank, Title, Release Year & the IMDB Rating.
 
 ### Python Jobs (Times Jobs)
-**CODE:** ['Python Jobs'](
-**EXCEL FILE:** ['Python Jobs'](
+**CODE:** ['Python Jobs'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/Times%20Jobs%20Python%20Jobs.ipynb)
+
 **DESCRIPTION:** The Times Jobs website was scraped to get the jobs openings that have mentioned python as a required skill. Only those openings that were posted "few days ago' were scraped. Data can be scraped every 10 minutes & the details are written into a text file
