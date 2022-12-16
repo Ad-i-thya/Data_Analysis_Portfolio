@@ -76,4 +76,18 @@ This section contains the list of projects completed with the help of data analy
                       3.  Except for Apple & Google, all other stock prices are highly correlated to each other<br>
                       4.  The daily returns of each stock are not correlated to each other<br>
                       5.  Market cap has been highest for Apple followed by Amazon<br>
-         
+ 
+### Youtube Case Study
+**CODE:** ['Youtube Case Study'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Analysis%20with%20Python/You_Tube_Analysis.ipynb)
+
+**DESCRIPTION:** Multiple datasets were used for analysis. The first dataset contains comments under videos upload in Youtube (US). The next dataset contains all the details of videos uploaded. Due to processor performance, data for only US & CA were used. Sentiment analysis was applied to analyze each comment and polarity was calculated for each of them. A wordlcoud was created separately for positive & negative comments. Post this , the datasets from US & CA were used for further analysis. Category wise analysis was conducted to understand which video category performed better. Further I looked at audience engagement by calculating the like rate, dislike rate & comment rate. Few other parameters were also analysed which i have mentioned in Results/Insights
+
+**TOOLS USED:** Python, Pandas, Textblob, Matplotlib, Seaborn, Plotly
+
+**RESULTS/INSIGHTS:**<br> 1.  Based on the wordcloud plotted, "Awesome", "Best", "Perfect" etc. were the most used positive words while "Terrible", "Worst" , "Boring"                                were the most used negative words <br>
+                      2.  Music videos had the most number of likes, dislikes & views. 42.5% of likes came from Music videos <br>
+                      3.  Max. audience engagement came from Music, Comedy, Films & Animation etc.<br>
+                      4.  The no:of likes that a video recieves depends on the no: of views while the no: of dislikes doesn't depend that much on views<br>
+                      5.  Videos uploaded at 4AM had the ost no: of views followed by videos that were uploaded during 1PM-5PM<br>
+                      6.  Videos with more number of punctuations in their titles got less views<br>
+                      7.  Most of the videos entered the trending list within 1-2 days of uploading<br>
