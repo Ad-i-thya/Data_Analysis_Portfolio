@@ -18,11 +18,14 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [You Tube Case Study](#youtube-case-study)
   
 - [Data Visualization with Power BI](#data-visualization-with-power-bi)
+  + [Netflix Originals Data](#netflix-originals-data)
   + [Indian Trade Data](#indian-trade-data)
-  + [Fitness Tracker Analysis](#fitness-tracker-analysis)
-  + [Superstore Sales Analysis](#superstore-sales-analysis)
-  + [Stock Market Analysis (S&P)](#stock-market-analysis)
-  + [You Tube Case Study](#youtube-case-study)
+  + [Superstore Sales Data](#superstore-sales-data)
+
+- [Web Scraping](#Web Scraping)
+  +[Books List](#books-list)
+  +[IMDB Top Movies (India)](#imdb-top-movies)
+  +[Python Jobs (Times Jobs)](#python-jobs)
 
 ## Portfolio Projects with Python
 This section contains the list of projects completed with the help of data analysis tools available in Python. A brief description about the project and the tools used are also given.
@@ -97,7 +100,7 @@ This section contains the list of projects completed with the help of data analy
                       7.  Most of the videos entered the trending list within 1-2 days of uploading<br>
  
 ## Data Visualization with Power BI
-This section contains few Power BI reports that I had created using the processed datasets from my python projects as well as using raw datasets.
+In this section, I have added few Power BI reports that I had created using the processed datasets from my python projects as well as using raw datasets.
 
 ### Netflix Originals Data
 **POWER BI FILE:** ['Netflix Originals Data'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Visualization%20with%20Power%20BI/Netflix_Originals.pbix)
@@ -114,3 +117,20 @@ This section contains few Power BI reports that I had created using the processe
 
 **DESCRIPTION:** Superstore dataset was loaded to Power BI and visualized. The first page consists of mutiple tables to see how sales has performed year wise, region wise, category wise to name a few. A bubble map was plotted where the size of the bubble varies with the sales amount. VArious other charts like bar plot, pie charts are also included.
 
+## Web Scraping
+This section contains few web scraping tasks that I had completed during my free time. I have added the jupyter code along with the final excel workbook into which the data was scraped
+
+### Books List from toscrape website
+**CODE:** ['Books List'](
+**EXCEL FILE:** ['Book List'](
+**DESCRIPTION:** The website is used for the sole purpose of learning how to scrape. The website was scraped to get the book title, the price, rating & stock status.
+
+### IMDB Top 200 movies
+**CODE:** ['IMDB Top 200 Movies'](
+**EXCEL FILE:** ['IMDB Top 200 Movies'](
+**DESCRIPTION:** The official webiste of IMDB was scraped to get the Movie Rank, Title, Release Year & the IMDB Rating.
+
+### Python Jobs (Times Jobs)
+**CODE:** ['Python Jobs'](
+**EXCEL FILE:** ['Python Jobs'](
+**DESCRIPTION:** The Times Jobs website was scraped to get the jobs openings that have mentioned python as a required skill. Only those openings that were posted "few days ago' were scraped. Data can be scraped every 10 minutes & the details are written into a text file
