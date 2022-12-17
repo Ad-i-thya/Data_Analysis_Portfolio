@@ -116,7 +116,7 @@ This section contains the list of projects completed with the help of data analy
                       7.  Most of the videos entered the trending list within 1-2 days of uploading<br>
  
 ## Data Visualization with Power BI
-In this section, I have added few Power BI reports that I had created using the processed datasets from my python projects as well as using raw datasets.
+In this section, I have added few Power BI reports that I had created using the processed datasets from my python projects as well as using raw datasets. Please download the files to view them.
 
 ### Netflix Originals Data
 **POWER BI FILE:** ['Netflix Originals Data'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Visualization%20with%20Power%20BI/Netflix_Originals.pbix)
