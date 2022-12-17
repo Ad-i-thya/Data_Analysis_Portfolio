@@ -23,8 +23,8 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Superstore Sales Data](#superstore-sales-data)
 
 - [Web Scraping](#web-scraping)
-  + [Books List](#books-list)
-  + [IMDB Top Movies](#imdb-top-movies)
+  + [Books List](#books-list-from-toscrape-website)
+  + [IMDB Top Movies](#imdb-top-200-movies)
   + [Python Jobs (Times Jobs)](#python-jobs)
 
 ## Portfolio Projects with Python
@@ -134,7 +134,7 @@ This section contains few web scraping tasks that I had completed during my free
 
 **DESCRIPTION:** The official webiste of IMDB was scraped to get the Movie Rank, Title, Release Year & the IMDB Rating.
 
-### Python Jobs (Times Jobs)
+### Python Jobs
 **CODE:** ['Python Jobs'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/Times%20Jobs%20Python%20Jobs.ipynb)
 
 **DESCRIPTION:** The Times Jobs website was scraped to get the jobs openings that have mentioned python as a required skill. Only those openings that were posted "few days ago' were scraped. Data can be scraped every 10 minutes & the details are written into a text file
