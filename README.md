@@ -22,7 +22,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Indian Trade Data](#indian-trade-data)
   + [Superstore Sales Data](#superstore-sales-data)
 
-- [Web Scraping](#Web Scraping)
+- [Web Scraping](#web-scraping)
   + [Books List](#books-list)
   + [IMDB Top Movies](#imdb-top-movies)
   + [Python Jobs (Times Jobs)](#python-jobs)
