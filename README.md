@@ -134,23 +134,31 @@ In this section, I have added few Power BI reports that I had created using the 
 **DESCRIPTION:** Superstore dataset was loaded to Power BI and visualized. The first page consists of mutiple tables to see how sales has performed year wise, region wise, category wise to name a few. A bubble map was plotted where the size of the bubble varies with the sales amount. VArious other charts like bar plot, pie charts are also included.
 
 ## Web Scraping
-This section contains few web scraping tasks that I had completed during my free time. I have added the jupyter code along with the final excel workbook into which the data was scraped
+This section contains few web scraping tasks that I had completed during my free time. I have added the jupyter code along with the final excel workbook into which the data was scraped. Screenshots of the codes have been attached for better understanding.
 
 ### Books List from toscrape website
-**CODE:** ['Books List'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/Books%20List%20from%20toscrape.ipynb)
+**CODE:** ['Books List'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Web%20Scraping/Books%20List%20from%20toscrape.ipynb)
 
-**EXCEL FILE:** ['Book List'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/Books%20list.xlsx)
+**EXCEL FILE:** ['Book List'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Web%20Scraping/Books%20list.xlsx)
+
+**SNIPPET OF THE CODE:** ['Books List'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/Web%20Scraping/Books%20List.png)
 
 **DESCRIPTION:** The website is used for the sole purpose of learning how to scrape. The website was scraped to get the book title, the price, rating & stock status.
 
 ### IMDB Top 200 movies
-**CODE:** ['IMDB Top 200 Movies'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/IMDB%20Scraping.ipynb)
+**CODE:** ['IMDB Top 200 Movies'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Web%20Scraping/IMDB%20Scraping.ipynb)
 
-**EXCEL FILE:** ['IMDB Top 200 Movies'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/IMDB%20Ratings.xlsx)
+**EXCEL FILE:** ['IMDB Top 200 Movies'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Web%20Scraping/IMDB%20Ratings.xlsx)
+
+**SNIPPET OF THE CODE:** ['IMDB Top 200 Movies'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/Web%20Scraping/IMDB%20Top%20200%20Movies.png)
 
 **DESCRIPTION:** The official webiste of IMDB was scraped to get the Movie Rank, Title, Release Year & the IMDB Rating.
 
 ### Python Jobs
-**CODE:** ['Python Jobs'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Webs%20Scraping/Times%20Jobs%20Python%20Jobs.ipynb)
+**CODE:** ['Python Jobs'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Web%20Scraping/Times%20Jobs%20Python%20Jobs.ipynb)
+
+**TEXT FILES:** ['Python Jobs'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/tree/main/Web%20Scraping/posts)
+
+**SNIPPET OF THE CODE:** ['Python Jobs'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/Web%20Scraping/Python%20Jobs.png)
 
 **DESCRIPTION:** The Times Jobs website was scraped to get the jobs openings that have mentioned python as a required skill. Only those openings that were posted "few days ago' were scraped. Data can be scraped every 10 minutes & the details are written into a text file
