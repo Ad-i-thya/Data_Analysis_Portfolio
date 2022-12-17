@@ -12,6 +12,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
 - [About](#about)
 - [Portfolio Projects with Python](#portfolio-projects-with-python)
   + [Netflix Originals Analysis](#netflix-originals-analysis)
+  + [Indian Weather Data Analysis](#indian-weather-data-analysis)
   + [Fitness Tracker Analysis](#fitness-tracker-analysis)
   + [Superstore Sales Analysis](#superstore-sales-analysis)
   + [Stock Market Analysis (S&P)](#stock-market-analysis)
@@ -30,6 +31,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
 ## Portfolio Projects with Python
 This section contains the list of projects completed with the help of data analysis tools available in Python. A brief description about the project and the tools used are also given.
 
+
 ### Netflix Originals Analysis
 **CODE:** ['Netflix Originals Analysis'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Analysis%20with%20Python/Netflix_Originals.ipynb)
 
@@ -43,6 +45,20 @@ This section contains the list of projects completed with the help of data analy
                       4. Highest number of films were released in English followed by Hindi<br>
                       5. Year 2020 had the highest number of releases<br>
                       6. Thriller movies were found to have the highest avg. runtime<br>
+                      
+### Indian Weather Data Analysis
+**CODE:** ['Indian Weather Data Analysis'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Analysis%20with%20Python/Indian%20Weather%20Data%20Analysis%20(1990-2022).ipynb)
+
+**DESCRIPTION:** The dataset was taken from Kaggle & contains the temperature + precipitation data for Mumbai, Chennai, Bangalore, Delhi, Rajasthan, Rourkela & Lucknow. For this project, only the data from Mumbai, Delhi, Bangalore & Chennai were used. The data was first loaded & cleaned to remove empty rows. Post this, the  datasets were merged to form one single dataset that contains 47374 entries. Then new columsn were added for day, month & year. Post this, the dataset was analysed to see how climate has changed over the years in each city. Precipitation data was analysed to see how rainfall varies throughout the year (monthwise).
+
+**TOOLS USED:** Python, Pandas, Matplotlib, Seaborn, Plotly
+
+**RESULTS/INSIGHTS:**<br> 1. Both the highest and the lowest temperatures were recorded in Delhi <br>
+                      2. Avg. temperature was highest in Chennai<br>
+                      3. In Bangalore, monthly avg. temperature always remained below 30 degrees<br>
+                      4. A regression line was plotted to study the temperature increase over the years. It is observed the temp. increase is highest for Mumbai &                              lowest for Bangalore (Effects of global warming) <br>
+                      5. From the bar chart plotted, it is clear that Mumbai had the highest number of rainy days & it was highest in the month of July<br>
+                      6. Significant heavy rainfall was recorded only in Mumbai. Chennai gets heavy rainfall in November when rainfall is minimum for other cities<br>
 
 
 ### Fitness Tracker Analysis
