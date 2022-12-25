@@ -103,7 +103,7 @@ This section contains the list of projects completed with the help of data analy
                       
 
 ### Credit Score Data Cleaning & Analysis
-**CODE:** ['Credit Score Data Cleaning & Analysis']()
+**CODE:** ['Credit Score Data Cleaning & Analysis'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/Data%20Analysis%20with%20Python/Credit%20Score%20Data%20Cleaning%20%26%20Analysis.ipynb)
 
 **DESCRIPTION:** In this project, stock data for Apple, Amazon, Google & Microsoft were analysed. Stock data of 4 companies were concatenated into one single dataframe. Line plots were plotted to analyse the closing price, volume etc. Daily returns were calculated for google stock & a line was plotted. Post this a heatmap was plotted to see if the stock prices (closing price) as well as the daily returns of different companies are related or not. Market cap of the companies were also plotted.
 
