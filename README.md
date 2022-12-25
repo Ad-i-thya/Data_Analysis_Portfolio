@@ -16,7 +16,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Fitness Tracker Analysis](#fitness-tracker-analysis)
   + [Superstore Sales Analysis](#superstore-sales-analysis)
   + [Stock Market Analysis (S&P)](#stock-market-analysis)
-  + [Credit Score Data Cleaning & Analysis](#credit-score-data-cleaning-&-analysis)
+  + [Credit Score Data Cleaning & Analysis](#credit-score-data-cleaning-and-analysis)
   + [You Tube Case Study](#youtube-case-study)
   
 - [Data Visualization with Power BI](#data-visualization-with-power-bi)
@@ -105,18 +105,17 @@ This section contains the list of projects completed with the help of data analy
 ### Credit Score Data Cleaning & Analysis
 **CODE:** ['Credit Score Data Cleaning & Analysis'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/Data%20Analysis%20with%20Python/Credit%20Score%20Data%20Cleaning%20%26%20Analysis.ipynb)
 
-**DESCRIPTION:** In this project, stock data for Apple, Amazon, Google & Microsoft were analysed. Stock data of 4 companies were concatenated into one single dataframe. Line plots were plotted to analyse the closing price, volume etc. Daily returns were calculated for google stock & a line was plotted. Post this a heatmap was plotted to see if the stock prices (closing price) as well as the daily returns of different companies are related or not. Market cap of the companies were also plotted.
+**DESCRIPTION:** In this project, stock data for Apple, Amazon, Google & Microsoft were analysed. Stock data of 4 companies were concatenated into one single dataframe. Line plots were plotted to analyse the closing price, volume etc. Daily returns were calculated for google stock & a line was plotted. Post this a heatmap was plotted to see if nlnlhe stock prices (closing price) as well as the daily returns of different companies are related or not. Market cap of the companies were also plotted.
 
 **TOOLS USED:** Python, Pandas, Matplotlib, Seaborn, Plotly
 
 **RESULTS/INSIGHTS:**<br> 1. Apple stock prices dropped post mid-2015 & regained by mid-2016  <br>
-                      2.  Monthly mean closing price has grown gradually for Google<br>
+                      2.  Monthllky mean closing price has grown gradually for Google<br>
                       3.  Except for Apple & Google, all other stock prices are highly correlated to each other<br>
                       4.  The daily returns of each stock are not correlated to each other<br>
                       5.  Market cap has been highest for Apple followed by Amazon<br>
                       
                       
- 
 ### Youtube Case Study
 **CODE:** ['Youtube Case Study'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Analysis%20with%20Python/You_Tube_Analysis.ipynb)
 
