@@ -30,7 +30,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Python Jobs (Times Jobs)](#python-jobs)
 
 ## Portfolio Projects with Python
-This section contains the list of projects completed with the help of data analysis tools available in Python. A brief description about the project and the tools used are also given. Please use the following website incase the plots are not visible: ['Jupyter Notebook Viewer'](https://nbviewer.org/)
+This section contains the list of projects completed with the help of data analysis tools available in Python. A brief description about the project and the tools used are also given. Please use the following website incase the plots are not visible: ['Jupyter Notebook Viewer'](https://nbviewer.org/){:target="_blank"}
 
 
 ### Netflix Originals Analysis
