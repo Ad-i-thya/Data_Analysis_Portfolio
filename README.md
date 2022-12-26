@@ -16,7 +16,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Fitness Tracker Analysis](#fitness-tracker-analysis)
   + [Superstore Sales Analysis](#superstore-sales-analysis)
   + [Stock Market Analysis (S&P)](#stock-market-analysis)
-  + [Credit Score Data Cleaning & Analysis](#credit-score-data-cleaning-&-analysis)
+  + [Credit Score Data Cleaning & Analysis](#credit-score-data-cleaning-and-analysis)
   + [You Tube Case Study](#youtube-case-study)
   
 - [Data Visualization with Power BI](#data-visualization-with-power-bi)
@@ -73,7 +73,7 @@ This section contains the list of projects completed with the help of data analy
                       2. The avg. Sleep time for each day of the week was calculated. It was found that avg. sleep time was highest on Sundays followed by Tuesdays.                            This maybe attributed to the fact that Sunday being a weekend, the user must have slept for more compared to weekdays. However, on analysing                           the avg. calories burnt on each day, it was observed that the avg. calories burnt was highest on tuesdays. Hence it can be said that since                             the user exerts more on tuesdays, he/she will need more amount of rest. Thus the high avg. sleep time <br>
                       3. Run Ratio (%) defined as the ratio between distance covered running & total distance covered. A subplot was created to see how the no: of                               steps & calories burnt. However on observing the Run Ratio vs. No: of steps, it can be seen that in some cases, the no;od steps are extremely                            high even for low Run Ratio values. But if we look at the dataset, it is clearly visible that whenever the person has covered lesser                                    distance running, he/she has compensated for it by covering more distance walking.<br>
                       
- ### Superstore Sales Analysis
+### Superstore Sales Analysis
 **CODE:** ['Superstore Sales Analysis'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Analysis%20with%20Python/Superstore_Sales.ipynb)
 
 **DESCRIPTION:** For this project, retail dataset of a global superstore for 4 years was used. Taken from Kaggle, the dataset contains the sales data for US. The data was initially cleaned to remove duplicates & drop unwanted columns. Post this, yearwise analysis, region wise analysis, Product wise analysis & Category wise analysis were conducted. The same dataset was used to create a report in Power BI.
@@ -102,7 +102,7 @@ This section contains the list of projects completed with the help of data analy
                       5.  Market cap has been highest for Apple followed by Amazon<br>
                       
 
-### Credit Score Data Cleaning & Analysis
+### Credit Score Data Cleaning and Analysis
 **CODE:** ['Credit Score Data Cleaning & Analysis'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/Data%20Analysis%20with%20Python/Credit%20Score%20Data%20Cleaning%20%26%20Analysis.ipynb)
 
 **DESCRIPTION:** This project mainly focusses on data cleaning. The dataset was taken from Kaggle & contains basic bank details & credit related information. The dataset contains 100000 entries. The dataset contained plenty of strange values which were replaced with NaN. The datatypes of few columns were changed to int/float. Post this, the outliers were handled using the IQR method. The missing values (NaN) were replaced with the median while in some cases the 'bfill' method was used. Unwanted columns were dropped & EDA was conducted.
