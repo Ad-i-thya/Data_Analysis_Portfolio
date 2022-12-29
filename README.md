@@ -18,7 +18,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Stock Market Analysis (S&P)](#stock-market-analysis)
   + [Credit Score Data Cleaning & Analysis](#credit-score-data-cleaning-and-analysis)
   + [You Tube Case Study](#youtube-case-study)
-  + ['IPL Data Analysis'](#ipl-data-analysis)
+  + [IPL Data Analysis](#ipl-data-analysis)
   
 - [Data Visualization with Power BI](#data-visualization-with-power-bi)
   + [Netflix Originals Data](#netflix-originals-data)
