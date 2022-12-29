@@ -133,7 +133,7 @@ This section contains the list of projects completed with the help of data analy
                       7.  Most of the videos entered the trending list within 1-2 days of uploading<br>
                       
 ### IPL Data Analysis
-**CODE:** ['IPL Data Analysis']()
+**CODE:** ['IPL Data Analysis'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/Data%20Analysis%20with%20Python/IPL%20%20Data%20Analysis.ipynb)
 
 **DESCRIPTION:** 
 
