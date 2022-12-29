@@ -18,6 +18,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Stock Market Analysis (S&P)](#stock-market-analysis)
   + [Credit Score Data Cleaning & Analysis](#credit-score-data-cleaning-and-analysis)
   + [You Tube Case Study](#youtube-case-study)
+  + ['IPL Data Analysis'](#ipl-data-analysis)
   
 - [Data Visualization with Power BI](#data-visualization-with-power-bi)
   + [Netflix Originals Data](#netflix-originals-data)
@@ -130,6 +131,21 @@ This section contains the list of projects completed with the help of data analy
                       5.  Videos uploaded at 4AM had the ost no: of views followed by videos that were uploaded during 1PM-5PM<br>
                       6.  Videos with more number of punctuations in their titles got less views<br>
                       7.  Most of the videos entered the trending list within 1-2 days of uploading<br>
+                      
+### IPL Data Analysis
+**CODE:** ['IPL Data Analysis']()
+
+**DESCRIPTION:** 
+
+**TOOLS USED:** Python, Pandas, Textblob, Matplotlib, Seaborn, Plotly
+
+**RESULTS/INSIGHTS:**<br> 1.   <br>
+                      2.   <br>
+                      3.   <br>
+                      4.   <br>
+                      5.   <br>
+                      6.   <br>
+                      7.   <br>
  
 ## Data Visualization with Power BI
 In this section, I have added few Power BI reports that I had created using the processed datasets from my python projects as well as using raw datasets. Please download the files to view them.
