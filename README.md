@@ -135,17 +135,17 @@ This section contains the list of projects completed with the help of data analy
 ### IPL Data Analysis
 **CODE:** ['IPL Data Analysis'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/Data%20Analysis%20with%20Python/IPL%20%20Data%20Analysis.ipynb)
 
-**DESCRIPTION:** 
+**DESCRIPTION:** IPL data from 2008-2017 was used. Two separate datasets, one containing the details of all the matches played from 2008-2017 & the other dataset contains details of all the deliveries bowled during these matches.Post data cleaning, teamwise, playerwise, season wise analysis were conducted.
 
-**TOOLS USED:** Python, Pandas, Textblob, Matplotlib, Seaborn, Plotly
+**TOOLS USED:** Python, Pandas, Matplotlib, Seaborn, Plotly
 
-**RESULTS/INSIGHTS:**<br> 1.   <br>
-                      2.   <br>
-                      3.   <br>
-                      4.   <br>
-                      5.   <br>
-                      6.   <br>
-                      7.   <br>
+**RESULTS/INSIGHTS:**<br> 1. Mumbai Indians played the most number of mathes and had the most number of wins <br>
+                      2.   Chris Gayle had the highest number of Man of the Match awards. He also holds the record for highest individual score in a match <br>
+                      3.   Suresh Raina is the player with most runs at a strike rate of 135.00. Most of his runs came against Piyush Chawla <br>
+                      4.   Of all the dismissal kinds, he was "caught" 77% of the times <br>
+                      5.   Lasith Malinga was the highest wicket taker followed by Ashish Mishra <br>
+                      6.   It is observed that post 2016, the team that one the toss cgose to field majority of the times <br>
+                      7.   Avg Runs scored per match was lowest in 2009 and peaked in 2017 <br>
  
 ## Data Visualization with Power BI
 In this section, I have added few Power BI reports that I had created using the processed datasets from my python projects as well as using raw datasets. Please download the files to view them.
