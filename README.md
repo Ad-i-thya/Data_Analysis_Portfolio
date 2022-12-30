@@ -166,7 +166,7 @@ In this section, I have added few Power BI reports that I had created using the 
 
 **DESCRIPTION:** Superstore dataset was loaded to Power BI and visualized. The first page consists of mutiple tables to see how sales has performed year wise, region wise, category wise to name a few. A bubble map was plotted where the size of the bubble varies with the sales amount. VArious other charts like bar plot, pie charts are also included.
 
-### Employees Data (Tableau)
+### Employees Data using Tableau
 **Tableau Public link:** ['Employees Data'](https://public.tableau.com/app/profile/adithya.suresh/viz/EmployeeDataVisualization_16723826079020/Dashboard1?publish=yes)
 
 **DESCRIPTION:** This project was done as part of a course that I had completed on Udemy. Bar, area & line charts have been used to visualize the data
