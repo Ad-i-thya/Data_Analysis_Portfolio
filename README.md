@@ -24,7 +24,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Netflix Originals Data](#netflix-originals-data)
   + [Indian Trade Data](#indian-trade-data)
   + [Superstore Sales Data](#superstore-sales-data)
-  + [Employee Data](#employee-data-tableau)
+  + [Employee Data using Tableau](#employee-data-using-tableau)
 
 - [Web Scraping](#web-scraping)
   + [Books List](#books-list-from-toscrape-website)
