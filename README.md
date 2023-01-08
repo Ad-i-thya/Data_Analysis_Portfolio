@@ -20,7 +20,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [You Tube Case Study](#youtube-case-study)
   + [IPL Data Analysis](#ipl-data-analysis)
  
- - [Exploaratory Data Analysis with SQL](#exploratory-data-analysis-with-sql)
+ - [Exploratory Data Analysis with SQL](#exploratory-data-analysis-with-sql)
    + [Covid Deaths](#covid-deaths)
    + [Alcohol Consumption In Students](#alcohol-consumption-in-students)
   
@@ -151,7 +151,20 @@ This section contains the list of projects completed with the help of data analy
                       5.   Lasith Malinga was the highest wicket taker followed by Ashish Mishra <br>
                       6.   It is observed that post 2016, the team that one the toss cgose to field majority of the times <br>
                       7.   Avg Runs scored per match was lowest in 2009 and peaked in 2017 <br>
- 
+
+
+## EDA with SQL
+Exploratory Data Analysis done in MS SQL Server
+
+### Covid Deaths
+**SQL FILE:** ['Covid Deaths'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/SQL/Covid%20Deaths%20EDA.sql)
+Exploratory data analysis on COVID-19 dataset. Dataset contains info about new covid cases reported each day, total covid cases, no:of people vaccinated to name a few.
+
+### Alcohol Consumption in Students
+**SQL FILE:** ['Alcohol Consuption EDA']
+
+
+
 ## Data Visualization with Power BI
 In this section, I have added few Power BI reports that I had created using the processed datasets from my python projects as well as using raw datasets. Please download the files to view them.
 
