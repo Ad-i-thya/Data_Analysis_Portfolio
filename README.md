@@ -19,6 +19,10 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Credit Score Data Cleaning & Analysis](#credit-score-data-cleaning-and-analysis)
   + [You Tube Case Study](#youtube-case-study)
   + [IPL Data Analysis](#ipl-data-analysis)
+ 
+ - [Exploaratory Data Analysis with SQL](#exploratory-data-analysis-with-sql)
+   + [Covid Deaths](#covid-deaths)
+   + [Alcohol Consumption In Students](#alcohol-consumption-in-students)
   
 - [Data Visualization with Power BI](#data-visualization-with-power-bi)
   + [Netflix Originals Data](#netflix-originals-data)
