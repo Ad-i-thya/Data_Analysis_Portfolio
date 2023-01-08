@@ -22,7 +22,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
  
  - [Exploratory Data Analysis with SQL](#exploratory-data-analysis-with-sql)
    + [Covid Deaths](#covid-deaths)
-   + [Alcohol Consumption In Students](#alcohol-consumption-in-students)
+   + [Alcohol Consumption in Students](#alcohol-consumption-in-students)
   
 - [Data Visualization with Power BI](#data-visualization-with-power-bi)
   + [Netflix Originals Data](#netflix-originals-data)
