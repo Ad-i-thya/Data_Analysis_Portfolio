@@ -29,6 +29,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
   + [Indian Trade Data](#indian-trade-data)
   + [Superstore Sales Data](#superstore-sales-data)
   + [Employee Data using Tableau](#employee-data-using-tableau)
+  + [Covid-19 Data using Tableau](#covid-19-data-using-tableau)
 
 - [Web Scraping](#web-scraping)
   + [Books List](#books-list-from-toscrape-website)
@@ -189,11 +190,12 @@ In this section, I have added few Power BI reports & Tableau dashboards that I h
 ### Employee Data using Tableau
 **Tableau Dashboard link:** ['Employees Data'](https://public.tableau.com/app/profile/adithya.suresh/viz/EmployeeDataVisualization_16723826079020/Dashboard1?publish=yes)
 
-**DESCRIPTION:** This project was done as part of a course that I had completed on Udemy. Bar, area & line charts have been used to visualize the data
+**DESCRIPTION:** This project was done as part of a course that I had completed on Udemy. Bar, area & line charts have been used to visualize the data.
 
 ### Covid-19 Data using Tableau
 **Tableau Dashboard Link:** ['Covid-19 Data'](https://public.tableau.com/app/profile/adithya.suresh/viz/Covid_Data_Visualization_16731052394380/Dashboard1)
 
+**DESCRIPTION:** Results obtained from the **Covid death** SQL project were used to build a dashboard.
 
 ## Web Scraping
 This section contains few web scraping tasks that I had completed during my free time. I have added the jupyter code along with the final excel workbook into which the data was scraped. Screenshots of the codes have been attached for better understanding.
