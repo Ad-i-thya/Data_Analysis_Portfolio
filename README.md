@@ -24,7 +24,7 @@ Hi I'm Adithya! I'm an undergraduate looking to pursue a career in data analytic
    + [Covid Deaths](#covid-deaths)
    + [Alcohol Consumption in Students](#alcohol-consumption-in-students)
   
-- [Data Visualization with Power BI](#data-visualization-with-power-bi)
+- [Data Visualization](#data-visualization)
   + [Netflix Originals Data](#netflix-originals-data)
   + [Indian Trade Data](#indian-trade-data)
   + [Superstore Sales Data](#superstore-sales-data)
@@ -168,8 +168,8 @@ Exploratory Data Analysis done in MS SQL Server
 
 
 
-## Data Visualization with Power BI
-In this section, I have added few Power BI reports that I had created using the processed datasets from my python projects as well as using raw datasets. Please download the files to view them.
+## Data Visualization 
+In this section, I have added few Power BI reports & Tableau dashboards that I had created using the processed datasets from my python projects as well as using raw datasets. Please download the files to view them.
 
 ### Netflix Originals Data
 **POWER BI FILE:** ['Netflix Originals Data'](https://github.com/Ad-i-thya/Ad-i-thya.github.io/blob/main/Data%20Visualization%20with%20Power%20BI/Netflix_Originals.pbix)
@@ -187,9 +187,12 @@ In this section, I have added few Power BI reports that I had created using the 
 **DESCRIPTION:** Superstore dataset was loaded to Power BI and visualized. The first page consists of mutiple tables to see how sales has performed year wise, region wise, category wise to name a few. A bubble map was plotted where the size of the bubble varies with the sales amount. VArious other charts like bar plot, pie charts are also included.
 
 ### Employee Data using Tableau
-**Tableau Public link:** ['Employees Data'](https://public.tableau.com/app/profile/adithya.suresh/viz/EmployeeDataVisualization_16723826079020/Dashboard1?publish=yes)
+**Tableau Dashboard link:** ['Employees Data'](https://public.tableau.com/app/profile/adithya.suresh/viz/EmployeeDataVisualization_16723826079020/Dashboard1?publish=yes)
 
 **DESCRIPTION:** This project was done as part of a course that I had completed on Udemy. Bar, area & line charts have been used to visualize the data
+
+### Covid-19 Data using Tableau
+**Tableau Dashboard Link:** ['Covid-19 Data'](https://public.tableau.com/app/profile/adithya.suresh/viz/Covid_Data_Visualization_16731052394380/Dashboard1)
 
 
 ## Web Scraping
