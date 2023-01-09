@@ -158,10 +158,13 @@ Exploratory Data Analysis done in MS SQL Server
 
 ### Covid Deaths
 **SQL FILE:** ['Covid Deaths'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/SQL/Covid%20Deaths%20EDA.sql)
-Exploratory data analysis on COVID-19 dataset. Dataset contains info about new covid cases reported each day, total covid cases, no:of people vaccinated to name a few.
+
+**DESCRIPTION:** Exploratory data analysis on COVID-19 dataset. Dataset contains info about new covid cases reported each day, total covid cases, no:of people vaccinated to name a few.
 
 ### Alcohol Consumption in Students
-**SQL FILE:** ['Alcohol Consuption EDA']
+**SQL FILE:** ['Alcohol Consuption EDA'](https://github.com/Ad-i-thya/Data_Analysis_Portfolio/blob/main/SQL/Alcohol%20Consumption%20EDA.sql)
+
+**DESCRIPTION:** Basic EDA on the dataset containing details of students in secondary education of 2 Portuguese schools. 
 
 
 
